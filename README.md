@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working in Junglee Games as a Software Development Engineer **
+- 🔭 I’m currently working in **[Junglee Games](https://www.jungleegames.com/)** as a Software Development Engineer.
 
 - 🌱 I’m currently learning **Angular, Jquery, Php**
 - 👯 I’m looking to collaborate on any awesome projects
