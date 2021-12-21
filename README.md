@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Portfolio website](https://omkarvgavadetech.netlify.app/)**
+- 🔭 I’m currently working in Junglee Games as a Software Development Engineer **
 
-- 🌱 I’m currently learning **express.js, MongoDB**
+- 🌱 I’m currently learning **Angular, Jquery, Php**
 - 👯 I’m looking to collaborate on any awesome projects
 - 💬 Ask me about any tech related stuff, I will be happy to help
 
